@@ -33,7 +33,7 @@ Custom STM32-based CAN communication PCB designed using KiCad.
 ## Current Status
 PCB routing and layout in progress.## Schematic
 
-![Schematic](schematic.png)
+![Schematic](images/Screenshot 2026-05-25 173953.png
 
 ## PCB Layout
 
