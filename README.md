@@ -1,6 +1,6 @@
 # STM32 CAN Node PCB
 
-Overview
+## Overview
 Custom STM32-based CAN communication PCB designed using KiCad.
 
 The project integrates:
