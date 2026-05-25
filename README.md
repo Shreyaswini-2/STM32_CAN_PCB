@@ -31,4 +31,10 @@ Custom STM32-based CAN communication PCB designed using KiCad.
 - NTC Thermistor
 
 ## Current Status
-PCB routing and layout in progress.
+PCB routing and layout in progress.## Schematic
+
+![Schematic](schematic.png)
+
+## PCB Layout
+
+![PCB Layout](pcb_layout.png)
