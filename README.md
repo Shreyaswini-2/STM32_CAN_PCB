@@ -36,3 +36,7 @@ PCB routing and layout in progress.## Schematic
 ## Schematic
 
 ![Schematic](Screenshot%202026-05-25%20173953.png)
+
+## PCB Layout
+
+![PCB Layout](Screenshot%202026-05-25%20192437.png)
