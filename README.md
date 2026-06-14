@@ -32,7 +32,35 @@ Custom STM32-based CAN communication PCB designed using KiCad.
 - NTC Thermistor
 
 ## Current Status
-PCB schematic and 2-layer layout completed. Firmware development in progress.
+## Current Status
+
+Hardware:
+
+* Schematic completed
+* 2-layer PCB layout completed
+* Component selection in progress
+
+Firmware:
+
+* ADC1 battery voltage acquisition implemented
+* ADC2 thermistor acquisition implemented
+* NTC temperature calculation implemented
+* CAN message transmission implemented
+* STM32CubeMX and STM32CubeIDE project builds successfully
+
+## CAN Message Structure
+
+| Bytes | Description           |
+| ----- | --------------------- |
+| 0-1   | Battery Voltage (mV)  |
+| 2-3   | Temperature (°C × 10) |
+
+## Future Improvements
+
+* CAN receive functionality
+* Fault detection (over-temperature / under-voltage)
+* ADC filtering
+* Hardware validation on physical PCB
 
 ## Schematic
 
